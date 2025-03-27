@@ -6,6 +6,8 @@
 // @match        https://vk.com/*
 // @match        https://vk.ru/*
 // @match        https://vkvideo.ru/*
+// @downloadURL  https://github.com/SifArtz
+// @updateURL    https://raw.githubusercontent.com/SifArtz/VKdownload/refs/heads/main/scriptVK.js
 // @run-at       document-idle
 // ==/UserScript==
 
